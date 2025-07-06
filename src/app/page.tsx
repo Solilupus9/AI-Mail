@@ -1,6 +1,8 @@
+import TestButton from "@/components/TestButton";
+
 function Page() {
 	return (
-		<div>Hello World</div>
+		<TestButton/>
 	);
 }
 
